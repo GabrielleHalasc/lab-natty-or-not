@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Desvendando a IA Generativa: Potencial e Ética no Mundo Moderno
 
-## 🚀 Introdução
+## 🚀 Descrição
 
-> Woooow! Look at this 👀
+>  Este ebook mergulha no fascinante mundo da Inteligência Artificial (IA) Generativa, explorando como essa tecnologia inovadora está transformando o mundo moderno. Desde a automação de tarefas repetitivas até a criação de novos conteúdos artísticos, a IA generativa está revolucionando diversos setores. Abordamos os fundamentos dessa tecnologia, suas aplicações práticas, e os desafios éticos e técnicos que ela apresenta. Com uma visão equilibrada entre os benefícios e as considerações éticas, este ebook oferece uma visão abrangente do potencial transformador da IA generativa e seu papel no futuro da humanidade.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🎯 Tcnologias utilizadas: 
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+1. IA Generaiva  **[Copilot](https://www.microsoft.com/pt-br/microsoft-copilot)** para roteirização;
+2. Plataforma de design virtual com IA Generativa **[Visme](https://www.visme.co/pt-br/criar-apresentacao/)**
 
-### Objetivos
+### Processo de Criação
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+ > Para a elaboração deste ebook, utilizei uma abordagem colaborativa e tecnológica. O conteúdo foi desenvolvido com o auxílio de uma IA avançada, que forneceu informações detalhadas e estruturadas sobre o mundo da Inteligência Artificial (IA) Generativa. A partir dessas informações, organizei e refinei os capítulos para garantir uma leitura fluida e informativa.
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação visual e o design do ebook foram realizados utilizando a plataforma Visme. Essa ferramenta permitiu a construção de um layout atraente e profissional, com gráficos, imagens e elementos visuais que complementam e enriquecem o conteúdo textual. O resultado é um ebook que não apenas informa, mas também engaja e inspira os leitores a explorar mais sobre o fascinante mundo da IA generativa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+>O resultado foi um ebook atraente e interessante, que combina informações detalhadas e bem estruturadas sobre a IA generativa com um design visualmente cativante. Utilizando a plataforma Visme, consegui criar um layout profissional que complementa o conteúdo textual, tornando a leitura não apenas informativa, mas também envolvente. Este ebook é uma ferramenta valiosa para qualquer pessoa interessada em entender o impacto e o potencial da IA generativa no mundo moderno.
 
-### Exemplos e Insigths
+![Captura de tela 2024-08-14 131017](https://github.com/user-attachments/assets/7756b4ce-5aa1-4036-bfe1-3833409b5c28)
+![Captura de tela 2024-08-14 131027](https://github.com/user-attachments/assets/eccd30e1-fc51-4c66-bf5c-0dd6413cc1d9)
+![Captura de tela 2024-08-14 131035](https://github.com/user-attachments/assets/74e90b08-4fce-4bd2-9a86-83484da01242)
+![Captura de tela 2024-08-14 131056](https://github.com/user-attachments/assets/7b1a79ba-7f38-4a14-b38e-7a5a1374fdf1)
+![Captura de tela 2024-08-14 131104](https://github.com/user-attachments/assets/c014e8cd-7fbb-40c6-8e33-a08233f29bfd)
+![Captura de tela 2024-08-14 131117](https://github.com/user-attachments/assets/10fd901c-8f63-4b9a-be8b-ade595ebca19)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
